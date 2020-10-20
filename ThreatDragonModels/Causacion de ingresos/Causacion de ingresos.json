@@ -11,11 +11,6 @@
         "title": "hola",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
-      },
-      {
-        "title": "holae",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
       }
     ],
     "reviewer": "Ricardo Pinto"
